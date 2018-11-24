@@ -1,4 +1,4 @@
-# Git Commands
+# Basic Git Commands
 
 _A list of commonly used Git commands_
 
@@ -103,3 +103,4 @@ _A list of commonly used Git commands_
 | `git push [remote] [tag name]` | Push tag to remote |
 | `git push [remote] --tags` | Push all the tags to remote (not recommended) |
 
+### Common Questions
